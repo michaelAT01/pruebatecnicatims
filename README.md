@@ -45,5 +45,5 @@ asi como el tema de realizar un layout bonito con todas las fuentes, y tipograf�
 •	¿Qué haría de manera diferente si se le asignara más tiempo? 
  terminar el requerimiento que me falto, la mejoraa del diseño, edl tema del prototipado evaluado con el cliente 
  mejora en el manejo de la paginación y el tema de los cards y animaciones sencillas
-
+recalcar que todo esto lo hice en un día apenas.
 
