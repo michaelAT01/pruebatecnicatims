@@ -8,7 +8,7 @@ Este proyecto es ta confeccionado para una prueba para saber mi conocimiento en 
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
--[Repuesta](#preguntas)
+- [Repuesta](#preguntas)
 
 ## Instalación
 Instalar nvm con la version de node 22.13.1
