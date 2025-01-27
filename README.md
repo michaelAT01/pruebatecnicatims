@@ -28,7 +28,6 @@ Lineamientos sobre cómo otros pueden contribuir al proyecto.
 1.No posee ni una contribución
 
 ## Contacto
-Información para contactar al autor del proyecto.
 
 Creado por [Michael Arauz Pura Vida] (https://www.linkedin.com/in/michael-arauz-torrez-79244922a/) 
 
