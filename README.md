@@ -1,10 +1,33 @@
-# React + Vite
+# PruebaTecnicaTims
+## Descripción
+Este proyecto es ta confeccionado para una prueba para saber mi conocimiento en react
+## Tabla de Contenidos
+- [Descripción](#descripción)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instalación
+Instalar nvm con la version de node 22.13.1
 
-Currently, two official plugins are available:
+```bash
+git clone https://github.com/michaelAT01/pruebatecnicatims.git
+cd pruebatecnicatims
+npm install
+## Uso
+Puedes ejecutarlo con:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm run dev
 
-link de figma de referencia del diseño: https://www.figma.com/design/qmAJOo33KVoxv2rdkirrIp/prototipo-de-prueba-tims?node-id=0-1&t=UaFkkU91GHaLAj7b-1
+## Contribuciones
+Lineamientos sobre cómo otros pueden contribuir al proyecto.
+
+1.No posee ni una contribución
+
+## Contacto
+
+Creado por [Michael Arauz Pura Vida] (https://www.linkedin.com/in/michael-arauz-torrez-79244922a/) 
+
