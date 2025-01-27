@@ -1,0 +1,268 @@
+{
+  "entries": [
+    {
+      "title": "Breaking Bad",
+      "description": "A high school chemistry teacher turned methamphetamine producer...",
+      "programType": "series",
+      "releaseYear": 2008,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Hoyo de hoyo",
+      "description": "A high school chemistry teacher turned methamphetamine producer...",
+      "programType": "series",
+      "releaseYear": 2018,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Casa de papel",
+      "description": "Es una serie donde van los endeudados...",
+      "programType": "series",
+      "releaseYear": 2018,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Inception",
+      "description": "Un ladrón que roba secretos corporativos mediante el uso de tecnología para compartir sueños...",
+      "programType": "movie",
+      "releaseYear": 2010,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Avengers",
+      "description": "Iroman y su cuadrilla...",
+      "programType": "movie",
+      "releaseYear": 2010,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Iron Man",
+      "description": "Trata de un hombre con traje...",
+      "programType": "movie",
+      "releaseYear": 2010,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Thor",
+      "description": "La historia del dios del trueno...",
+      "programType": "movie",
+      "releaseYear": 2011,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "description": "Un grupo de inadaptados galácticos...",
+      "programType": "movie",
+      "releaseYear": 2014,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Doctor Strange",
+      "description": "Un neurocirujano que se convierte en el hechicero supremo...",
+      "programType": "movie",
+      "releaseYear": 2016,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "The Incredible Hulk",
+      "description": "Bruce Banner busca una cura para su condición...",
+      "programType": "movie",
+      "releaseYear": 2008,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Iron Man 2",
+      "description": "Tony Stark debe enfrentar enemigos nuevos y viejos...",
+      "programType": "movie",
+      "releaseYear": 2010,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "description": "La historia del primer superhéroe de América...",
+      "programType": "movie",
+      "releaseYear": 2011,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "description": "El Capitán América se enfrenta a un antiguo amigo...",
+      "programType": "movie",
+      "releaseYear": 2014,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Captain America: Civil War",
+      "description": "Los Vengadores se dividen en dos bandos...",
+      "programType": "movie",
+      "releaseYear": 2016,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Black Panther",
+      "description": "T'Challa regresa a Wakanda para asumir el trono...",
+      "programType": "movie",
+      "releaseYear": 2018,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker equilibra su vida como estudiante y superhéroe...",
+      "programType": "movie",
+      "releaseYear": 2017,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "description": "Peter Parker enfrenta nuevas amenazas en Europa...",
+      "programType": "movie",
+      "releaseYear": 2019,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Ant-Man",
+      "description": "Scott Lang se convierte en el nuevo Ant-Man...",
+      "programType": "movie",
+      "releaseYear": 2015,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Ant-Man and The Wasp",
+      "description": "Scott Lang se une a Hope van Dyne como The Wasp...",
+      "programType": "movie",
+      "releaseYear": 2018,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "description": "Los Vengadores se enfrentan a Thanos para salvar el universo...",
+      "programType": "movie",
+      "releaseYear": 2018,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Avengers: Endgame",
+      "description": "Los Vengadores se reúnen para revertir el desastre causado por Thanos...",
+      "programType": "movie",
+      "releaseYear": 2019,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Black Widow",
+      "description": "La historia de Natasha Romanoff antes de unirse a los Vengadores...",
+      "programType": "movie",
+      "releaseYear": 2021,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "description": "Shang-Chi se enfrenta a su pasado y a los Diez Anillos...",
+      "programType": "movie",
+      "releaseYear": 2021,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    },
+    {
+      "title": "Eternals",
+      "description": "Una raza de seres inmortales protege la Tierra desde tiempos antiguos...",
+      "programType": "movie",
+      "releaseYear": 2021,
+      "images": {
+        "Poster Art": {
+          "url": "/src/assets/breakingbad.jpg"
+        }
+      }
+    }      
+  ]
+}
